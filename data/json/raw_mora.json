@@ -1,0 +1,284 @@
+{
+  'status': 'finished',
+  'extraction_type': 'RAW',
+  'store_address': {
+    'latitude': None,
+    'city': None,
+    'street': None,
+    'longitude': None,
+    'zip_code': None
+  },
+  'uuid': '20161207-1150-5935-44181',
+  'light_image_url': 'http://receipts.fidmarques.com/receipts/production/21/2016/12/07/20161207-1150-5935-44181-1/20161207-1150-5935-44181-1_prerotated.jpg',
+  'retailer_name': 'Inconnu',
+  'lines': [
+    {
+      'total_price': None,
+      'ocr_processed_description': 'MORA',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '13 rue Montnartre',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '75001 PARIS',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Ta1 O1 45 08 19 24',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'CO009700 30/11/2016 13:11',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Caisge 92 Ticket 92150835',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'SPRAY VELOURS ROUGE 100ML',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '006591 7.30',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'EAU DE ROSE 5% 50ML',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '008963 4.85',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': u
+      "THERMOMETRE DIGITAL -10'+200'C",
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '001510 34.10',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'MOULE A BUCHE RONDE PN PVC 250X40X40MN',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '047121 1.20',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'MOULE A BUCHE SILICONE 1.3L 250X90MN',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '000816 23.90',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'CERCLE A TARTE INOX H16MM 9OMM',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '188128 2x 3.20 6.40',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'PLAQUE 18 MINI-BORDELAIS 35NN H35NN',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '000672 8.40',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Total 86.15',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Carte Bleue 86.15',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Ventllation TVA',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Base TVA 1aux Montant',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '61.67 20.00% 12.33',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '10.12 20.00% 2.03',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '71.79 14.36',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Lundi -vendredl : 8h-18h15',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Samedl :10h-18n & 13h45-18h30',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    }
+  ],
+  'retailer_image_url': 'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  'nb_recognized_products': 0,
+  'nb_products': 0,
+  'date': '30-11-2016 13:11',
+  'total': 86.15,
+  'user_uuid': 'marine.lebez@gmail.com'
+}

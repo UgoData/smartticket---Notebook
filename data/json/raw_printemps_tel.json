@@ -1,0 +1,222 @@
+{
+  'status': 'finished',
+  'extraction_type': 'RAW',
+  'store_address': {
+    'latitude': None,
+    'city': None,
+    'street': None,
+    'longitude': None,
+    'zip_code': None
+  },
+  'uuid': '20161206-1457-2437-65321',
+  'light_image_url': 'http://receipts.fidmarques.com/receipts/production/21/2016/12/06/20161206-1457-2437-65321-1/20161206-1457-2437-65321-1_prerotated.jpg',
+  'retailer_name': 'Inconnu',
+  'lines': [
+    {
+      'total_price': None,
+      'ocr_processed_description': 'PRMNTENVAPS',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'PrintEembs Haussmann Tel: 0142825000',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '*** Ticket client ***',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Montants exprimes en euros',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'N\xb0 Client : 004254831',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Statut:Fid-Silver',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'CAPILLAIRE LEONOR GREYL',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '3450870020146 30.00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Total paye 30.00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Paye en CB 30.00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Magasin 010 - Ilot 1 - Maison -',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Etage RDC -GTPV GTPV3 =TPV 0.71-',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Transaction 48671 - Operateur 01i814',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '19/07/2016 - 18:29:04',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '2 9 0 1OO071 4 8 6 7 1 8',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Gain de POINTS-SHOPPING : 15',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Cumul total de POINTS-SHOPPING : 15',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Nombre de BR disponibles : O BR',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': u
+      "Date d' echeance !",
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Merci de votire visite et a tres bientoL.',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Conservez ce ticket',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': u
+      "Date limite d'echange le 18/h08/2016",
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    }
+  ],
+  'retailer_image_url': 'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  'nb_recognized_products': 0,
+  'nb_products': 0,
+  'date': '19-07-2016 18:29',
+  'total': 0.0,
+  'user_uuid': 'marine.lebez@gmail.com'
+}

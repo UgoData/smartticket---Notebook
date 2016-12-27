@@ -1,0 +1,283 @@
+{
+  'status': 'finished',
+  'extraction_type': 'RAW',
+  'store_address': {
+    'latitude': None,
+    'city': None,
+    'street': None,
+    'longitude': None,
+    'zip_code': None
+  },
+  'uuid': '20161207-1151-1388-73221',
+  'light_image_url': 'http://receipts.fidmarques.com/receipts/production/21/2016/12/07/20161207-1151-1388-73221-1/20161207-1151-1388-73221-1_prerotated.jpg',
+  'retailer_name': 'Inconnu',
+  'lines': [
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Date dinpression :28/10/2018 12:63146',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'P.A R 1 9mS',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'NADC 2 + Francols ier',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'La lMaison duw chocoiat',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '52. rue Francois ler',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '75008 PARIS',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Tel:01 47 23 38 25',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'T7VA e FR48572154318',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Date de transaclon : 28/10/2016 12:53:09',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Caissier : LWMDc2.RE',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Transactione : 2046',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Articles',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Ref. Qte Prix Unit. Tax% Taxe Total',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Description',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '218001 text="133.00 \u20ac6.50 6.93 \u20ac 30.59 \u20ac',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'COF MAISON COMPOSE NOIR 230 G',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Sous-TotalhHT 29.00 \u20ac',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Taxes: 1.59 \u20ac',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Total TTC x 30.59 NE',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Realement',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Rieehode de WAAOH RVlontamnt',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Carte de credt CB 30.59 \u20ac',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '433148389000128467',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Les articles ne sont ni repns ni echan3es.',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Retrouvez sur notre sute lnternet',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '1es adresses de nos poutques dans le nnonde',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'et decouvrez notre boutque en mgne',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'V/VOvV.annaisonduchocoiat.Tf',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'ieroi de votre iste.',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    }
+  ],
+  'retailer_image_url': 'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  'nb_recognized_products': 0,
+  'nb_products': 0,
+  'date': '07-12-2016 11:51',
+  'total': 0.0,
+  'user_uuid': 'marine.lebez@gmail.com'
+}

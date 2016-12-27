@@ -1,0 +1,265 @@
+{
+  'status': 'finished',
+  'extraction_type': 'RAW',
+  'store_address': {
+    'latitude': None,
+    'city': None,
+    'street': None,
+    'longitude': None,
+    'zip_code': None
+  },
+  'uuid': '20161207-1150-9679-83421',
+  'light_image_url': 'http://receipts.fidmarques.com/receipts/production/21/2016/12/07/20161207-1150-9679-83421-1/20161207-1150-9679-83421-1_prerotated.jpg',
+  'retailer_name': 'Inconnu',
+  'lines': [
+    {
+      'total_price': None,
+      'ocr_processed_description': 'COJEAN MADELEILNE',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '6 Pue de Seze',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '75009 Paris',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '01 40 06 08 B0',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'du lundi au vendredi de 8:00 a 18:x00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'le samedi de 10:00 a 18:00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Le 24.07.2016 as 12:27 Servi par ATHALIA',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Sur Place',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '1 soupe fr concombre 4.90 E',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '1 salade grecque 5.40 E',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Total en euro : 10.30 Eur',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '11 - Carte client 7.90',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'ESPECES 2.40',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Comptant donne:2.50 Rendu: 0.10',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Lrrepaiement)',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'CHEQUE DE TABLE SCAN 7.80',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Prepaiement: Montant:',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '0017989 CARTE CLIENT',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Anc1en so1de carte: 0.10',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'RNO/veau solde carte: 0.00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '-auX HT TVA TTC',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'V.VU 9.36 0.94 10.30',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'N Facture : 81599',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'nourrir aimer donner',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'COUEAN SAS',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Siret: 43343282000028',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Co1eanmadeleimneccojean.Tr',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    }
+  ],
+  'retailer_image_url': 'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  'nb_recognized_products': 0,
+  'nb_products': 0,
+  'date': '24-07-2016 12:27',
+  'total': 0.0,
+  'user_uuid': 'marine.lebez@gmail.com'
+}

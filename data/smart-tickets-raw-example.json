@@ -1,0 +1,601 @@
+{
+  u
+  'status': u
+  'finished',
+  u
+  'extraction_type': u
+  'RAW',
+  u
+  'store_address': {
+    u
+    'city': None,
+    u
+    'street_number': None,
+    u
+    'longitude': None,
+    u
+    'street': None,
+    u
+    'latitude': None,
+    u
+    'zip_code': None
+  },
+  u
+  'uuid': u
+  '20161202-1324-5257-72351',
+  u
+  'light_image_url': u
+  'http://receipts.fidmarques.com/receipts/production/21/2016/12/02/20161202-1324-5257-72351-1/20161202-1324-5257-72351-1_prerotated.jpg',
+  u
+  'retailer_name': u
+  'Inconnu',
+  u
+  'lines': [
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '01.49.35.88.70',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'SAV 01.75.62.26.04',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      "N'SIREN:345197552",
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '**SHEXSHEUS*S***',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Pomses a demaRnder votrne carte de fidelite',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'gratuitelll',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Operateur 395 - EREN',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Montant TIC EUR',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '24646499 LEMON CHAISE PLIANTE 32.99',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Dint part eco-mobilier 0.25 EUR TTC',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '24646499 LEMON CHAISE PLIANTE 32.99',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Dont PART ECO-Moblier 0.25 EUR TTC',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Total EUR 65.98',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Dont part Eco-mobilier 0.50 EUR TTC',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Tauxs TVA HT TVA TTC',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '20.00% 54.98 11.00 65.98',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'CB Auto 65.98',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Nb Article(s7) : 2',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      "N' de Ticket",
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '0 1216 2470 1132',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '00012 Poste: 012',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'Ecoanse Ou reNDoursement sous 30 jours',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'sur Resendedion d 1ice8 de coIsge e',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      "0e : 'emDa.i89e Q o7i9.ne.",
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'RenDOursement eftecue cdnsle RERe moed',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'e re9iemenT.',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'LeXCePTIOn POUT IES CheAJES O2I8I MIRImUM',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      '8e 3 9emeIed)',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    },
+    {
+      u
+      'total_price': None,
+      u
+      'ocr_processed_description': u
+      'S>-3-tS t',
+      u
+      'unit_price': None,
+      u
+      'ocr_raw_description': None,
+      u
+      'category_image_url': u
+      'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      u
+      'category_name': u
+      'NON RECONNU',
+      u
+      'quantity': None
+    }
+  ],
+  u
+  'retailer_image_url': u
+  'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  u
+  'nb_recognized_products': 0,
+  u
+  'nb_products': 0,
+  u
+  'date': u
+  '02-12-2016 13:24',
+  u
+  'total': 65.98,
+  u
+  'user_uuid': u
+  'mtb8@mtb.com'
+}

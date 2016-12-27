@@ -1,0 +1,157 @@
+{
+  'status': 'finished',
+  'extraction_type': 'RAW',
+  'store_address': {
+    'latitude': None,
+    'city': None,
+    'street': None,
+    'longitude': None,
+    'zip_code': None
+  },
+  'uuid': '20161207-1038-7268-32081',
+  'light_image_url': 'http://receipts.fidmarques.com/receipts/production/21/2016/12/07/20161207-1038-7268-32081-1/20161207-1038-7268-32081-1_prerotated.jpg',
+  'retailer_name': 'Inconnu',
+  'lines': [
+    {
+      'total_price': None,
+      'ocr_processed_description': '*K NHIUREU L3D 7X7',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'B0 AV HENRI BARBOUSSE - ALPHA PARK',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '78340 LES CLAYES-SOUS-BOIS - 0130966903.',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'DESIGNATION MT Euro',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Vendeur : MICHAEL',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'BRASSE BANANE/MANG/A 2.24',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'BRASSE POM/FRAMB/BAN 2.24',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'TOTAL 4.48',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'ESPECE Euro 10.00',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'A RENDRE -5.52\u20ac',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '1auX Mt HOT T.V.A Mt TTC',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': '5.50% 4.25 0.23 4.48',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'Ticket 3-06434 DY 310/10/16 1h32',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'NATUREO VOUS REMERCIE DE VOTRE VISITE',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    },
+    {
+      'total_price': None,
+      'ocr_processed_description': 'HHW.NATUREO-BIO.FR OU 0800 088 106',
+      'unit_price': None,
+      'ocr_raw_description': None,
+      'category_image_url': 'http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png',
+      'category_name': 'NON RECONNU',
+      'quantity': None
+    }
+  ],
+  'retailer_image_url': 'http://cdn1.skerou.com/images/retailers/inconnu.png',
+  'nb_recognized_products': 0,
+  'nb_products': 0,
+  'date': '07-12-2016 10:38',
+  'total': 4.48,
+  'user_uuid': 'marine.lebez@gmail.com'
+}

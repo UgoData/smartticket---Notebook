@@ -1,0 +1,292 @@
+{
+  "status": "finished",
+  "extraction_type": "RAW",
+  "store_address": {
+    "city": None,
+    "street_number": None,
+    "longitude": None,
+    "street": None,
+    "latitude": None,
+    "zip_code": None
+  },
+  "uuid": "20161202-1325-4528-63981",
+  "light_image_url": "http://receipts.fidmarques.com/receipts/production/21/2016/12/02/20161202-1325-4528-63981-1/20161202-1325-4528-63981-1_prerotated.jpg",
+  "retailer_name": "Inconnu",
+  "lines": [
+    {
+      "total_price": None,
+      "ocr_processed_description": "PTMA",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Roc France 5As",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Aire d"
+      Asse
+      +
+      Tlens
+      Est
+      -
+      Autoroute
+      Aw
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "80200 PERONNE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Tel : 03.22.85.20.56",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "N"
+      TVA: en
+      cours
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TICKET CLIENT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ARTICLE TVA MONTANT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "*Diesel 3 \u20ac 20.19",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "(POMP 10; 16.10 e * \u20ac 1.254/e) *",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TOT TTC \u20ac 20.19",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Carte bancaire \u20ac 20.19",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CB COMPTANT: ************7891 OD",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "STAN: 151723",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Hote no.ref: 828513570998",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Code d"
+      autor
+      .
+      0
+      0
+      2609
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ACcepte",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Id commerc. 118994255964001",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "AID- A0000000421010",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "AC. 67A12DE875100842",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "VENTE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CB COMPTANT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TVA IyDe Net Montant",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "3 20.00 \u20ac 16.83 \u20ac 3.36",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "11-10-2016 13:12 7833 1683 1047110424",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "11 -380782-85082778",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Merci de votre visite",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "A bientdt dans nos stetions",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    }
+  ],
+  "retailer_image_url": "http://cdn1.skerou.com/images/retailers/inconnu.png",
+  "nb_recognized_products": 0,
+  "nb_products": 0,
+  "date": "11-10-2016 13:12",
+  "total": 0.0,
+  "user_uuid": "mtb8@mtb.com"
+}

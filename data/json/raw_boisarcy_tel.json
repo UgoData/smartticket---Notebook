@@ -1,0 +1,803 @@
+{
+  "status": "finished",
+  "extraction_type": "RAW",
+  "store_address": {
+    "latitude": "48.7988451",
+    "city": "BOIS D"
+    ARCY
+    ",
+    "street": "11 avenue Jean-Jaur\xe8s",
+    "longitude": "2.0374288",
+    "zip_code": "78390"
+  },
+  "uuid": "20161206-1453-3712-70631",
+  "light_image_url": "http://receipts.fidmarques.com/receipts/production/21/2016/12/06/20161206-1453-3712-70631-1/20161206-1453-3712-70631-1_prerotated.jpg",
+  "retailer_name": "Inconnu",
+  "lines": [
+    {
+      "total_price": None,
+      "ocr_processed_description": "78390 BOIS D"
+      ARCV
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TEL. 01.30.14.41.A41.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Ceisse 04 -0125 12 MOVRRDTe 2016 18:27",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "T1cket 12/11/16 0 04WM 04900",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TTC TVA",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> EPICERIE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CRUNCHIPS PAP/PAP/SALE 3X135G 2 2.49 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> LIQUIDES",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "* VITTEL EAU MIN NAT PET 6X1.5L 2.50 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "* VITTEL EAU MIN NAT PET 6X1.5L 2.50 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "EAU SAN PELLEGRINOX6",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "3 X 3.28\u20ac 9.84 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> D.P.H.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "RECHARGE LESSIVE VEGET 2L 5.61 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CR DEMRO DEF ALOE SO BIO.50ML 8.61 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "EAU MICEL PURIF 500ML 6.76 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "* COTON DUO MINI OVALE 110 INELL 0.73 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "*SACS POUBELLE ULTRA-RESIST 30L 2.39 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "*SACS POUBELLE ULTRA-RESIST.30L 2.39 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "* SACS POUBELLE ULTRA-RESIST 30L 2.39 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ASSOUPLIS ALOE VERA750ML 2.81 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "NETT.CITRON RAINETT 1.84 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "OKAY RM DECORE X9+3 RLX GRT 6.39 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> TRAITEUR L.S",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TORTILLA NATURE LUSTUCRU 450G 3.46 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "GNOCCHI A POELER MOZZA TOM 280G",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "2 X 2.28\u20ac 4.56 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> BOUCHERIE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "FILET PORC FUME FROM 4.49 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ROTI FUME 7.72 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> CREMERIE L.S",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "PRESIDT BEUR. TDRE 80% 1/2S 250G 1.76 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "LAIT VITAMINE UHT VIVA BK 6X1L",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "2 X 5.22\u20ac 10.44 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "FLAN BIO VANILLE NAP.CARAMEL X4 1.64 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "PERLE DE LAIT VANILLE 4X125G 1.77 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "* YRT A LA GRECQUE BIO 2X150G MR 1.52 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "YRT CREMEUX FRAISE FRAMB 4X125G 2.02 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CREME DESERT VANILLE BIO 4X95G 1.66 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "FROMAGE PHILADELPHIA NATURE150G",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "3 X 1.40\u20ac 4.20 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">> BOULANGERIE/VIENNOISERIE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "PAVE 3 MEUNIERS 1.30 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": ">>- BRICOLABE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "EAU DEMINERALISEE 5L 1.54 5",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Total 34 articles 105.33",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "BR Immediat 4.68",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Reste 100.65",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "(CB 100.65",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Rendu 0.00",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "LO08 HT TVA TTC",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "2 5950 60.55 3.32 63.87",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "5 20%00 34.55 6.91 41.46",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "BONS -DE TREULCTION",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Lot LOT 3 PHILADELPHIA 1.40",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "FROMAGE PHILADELPHIA NAT (X3)",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "EAU SAN PELLEGRINOX6 (LOt de 3) 3.28",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Total BR Immediat 4.68",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Ne l3 CaTeELkEclenG",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Detail des BvBRCaGeS ODCehUS !",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "VITTEL EAU MIN NAT PET 6X1. 2.00 euros",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "MARQUE REPERE 0.25 \u20acurOs",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Vous Venez d"
+      obtenir: 2.25
+      \
+      u20ac
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CUMUL DISPONIBLE AU 13/11/16 : 3.67 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Ce CUMUL DISPONIBLE est B Valoir sur",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "VOS prOcheins 8chats d8nS tOus les",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "m89esins E.LECLERC participent",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "l "
+      operation
+      8
+      t
+      Sur
+      presentation
+      de
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "VOtre Carte E.LECLERC.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Modalites. quree de validite a l"
+      accueil
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "****************************************",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ECHANGE OU REMBOURSEMENT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "****************************************",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Echanhge DU remboursement de tout produit",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "hors produits frais.surseles. fin de",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "serie at articles soldes) d8ns le centre",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "E.Leclerc d0 l"
+      echat
+      a
+      ete
+      effectue
+      .
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "daTns Un dela1 de 15 jOurs &pres l"
+      achets
+      ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "*Voir modaTlites au point Accueil",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "DU 2 NOVEMBRE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "AU 17 DECEMBRE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "STAR WARS EST DE",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "RETOUR CHEZ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "E.LECLERC !",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    }
+  ],
+  "retailer_image_url": "http://cdn1.skerou.com/images/retailers/inconnu.png",
+  "nb_recognized_products": 0,
+  "nb_products": 0,
+  "date": "06-12-2016 14:54",
+  "total": 105.33,
+  "user_uuid": "marine.lebez@gmail.com"
+}

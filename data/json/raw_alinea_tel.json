@@ -1,0 +1,284 @@
+{
+  "status": "finished",
+  "extraction_type": "RAW",
+  "store_address": {
+    "city": None,
+    "street_number": None,
+    "longitude": None,
+    "street": None,
+    "latitude": None,
+    "zip_code": None
+  },
+  "uuid": "20161202-1304-7988-88231",
+  "light_image_url": "http://receipts.fidmarques.com/receipts/production/21/2016/12/02/20161202-1304-7988-88231-1/20161202-1304-7988-88231-1_prerotated.jpg",
+  "retailer_name": "Inconnu",
+  "lines": [
+    {
+      "total_price": None,
+      "ocr_processed_description": "01.49.35.88.70",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "SAV 01.75.62.26.04",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "N SIREN:345197552",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "3*1*9*9**9*XSSES** *",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Penses a demander votre carte de fidelite",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "gratuitelll",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Operateur 395 - EREN",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Montant TTC EUR",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "24646499 LEMON CHAISE PLIANTE 32.99",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Dont Part Eco-Mobilier 0.25 EUR TTC",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "24646499 LEMON CHAISE PLIANTE 32.99",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "DONT PART ECO-MOBILIER 0.25 EUR TTC",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TOTAL EUR 65.98",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "DONT PART ECO-MOBILIER 0.50 EUR TTC",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Taux TVA HT TVA TTC",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "20.00% 54.98 11.00 65.98",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "CB Auto 65.98",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Nb Article(s) : 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "N de 1ickei",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "0 1216 2470 1132",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Mag.: 00012 Poste : 012 03/09/2016 18:54",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "LChanNe OU TEMDOU SEMETT SOUS JU JOUrS ",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ur REsentaIon G IcKeT Ge coIkse ed",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "0e l emDaii88e 0 o7I9ine.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "ReMDOursehenT efTecTue dBnG Ie mERe Mbde d",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "e Pe9iemenT.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "LEXCEPTIOn POUT IES CDeAUES O2IBI MIRIMuM",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "02 3 S8MaIneS)",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "**XXRRX3",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    }
+  ],
+  "retailer_image_url": "http://cdn1.skerou.com/images/retailers/inconnu.png",
+  "nb_recognized_products": 0,
+  "nb_products": 0,
+  "date": "03-09-2016 18:54",
+  "total": 0.0,
+  "user_uuid": "ajlv1@b.com"
+}

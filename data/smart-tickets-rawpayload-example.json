@@ -1,0 +1,302 @@
+{
+ "status": "finished",
+ "extraction_type": "RAW",
+ "total": 2.1,
+ "uuid": "20161209-1558-2474-62401",
+ "retailer_name": "Inconnu",
+ "lines": [{
+         "total_price": null,
+         "ocr_processed_description": "Date: 20/07/2016 18:32 Nb Article: 1",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Caisse: 367 Ticket: 6202208",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "94459",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Vendeur : 94459",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "ZONE 152",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "2069891938579 2213 PIERRE HERME 5 5 %",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Article PRouge",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "= 2.10 \\u20ac",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Total 2.10 \\u20ac",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Especes : 2.10 \\u20ac",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Taux TVA Montant H T T.V.A.",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "5.50 % 1.99 \\u20ac 0.11 \\u20ac",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "M E R C T",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "A bientot en magasin et",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "sur galerieslafayette.com",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "\\ Veuillez faire la detaxe ",
+         " unit_price ": null,
+         " ocr_raw_description ": null,
+         " category_image_url ": " http: //cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "1e Jour de voire achat",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "\\ Please do your Tax Refund",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "on the day of your purchase.\\",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Echanse oUu remboursement jsous 30 jours",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "sur presentation du ticket de coisse.",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "*5saut eXCePtion 5i9naoiees en ha983slrn",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Exchange or refund within 30 days*",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "days With a valid receipi",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "*ReXCePtion 5tore",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "GL HAUSSMANN",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "40 bId Haussnenn",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "75446 PARIS CEDEX 09",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Tel 01.42.82.34.56",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Du lundi au samedi 9h30-20h",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "et le jeudi 9h30-20hM30.",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "367620220812",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "RCS Paris: 572 062 594 Cap: 217 404 572\\u20ac",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "TVA Intracom FR65 572 062 594",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }, {
+         "total_price": null,
+         "ocr_processed_description": "Mhe9asin GL HAUSSMANN",
+         "unit_price": null,
+         "ocr_raw_description": null,
+         "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+         "quantity": null,
+         "category_name": "NON RECONNU"
+     }
+ ],
+ "retailer_image_url": "http://cdn1.skerou.com/images/retailers/inconnu.png",
+ "date": "20-07-2016 18:32",
+ "nb_products": 0,
+ "nb_recognized_products": 0,
+ "store_address": {
+     "latitude": null,
+     "city": null,
+     "street": null,
+     "longitude": null,
+     "zip_code": null
+ },
+ "light_image_url": "http://receipts.fidmarques.com/receipts/production/21/2016/12/09/20161209-1558-2474-62401-1/20161209-1558-2474-62401-1_prerotated.jpg",
+ "user_uuid": "marine.lebez@gmail.com"
+ }

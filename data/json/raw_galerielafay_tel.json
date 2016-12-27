@@ -1,0 +1,364 @@
+{
+  "status": "finished",
+  "extraction_type": "RAW",
+  "store_address": {
+    "latitude": None,
+    "city": None,
+    "street": None,
+    "longitude": None,
+    "zip_code": None
+  },
+  "uuid": "20161206-1531-2435-55041",
+  "light_image_url": "http://receipts.fidmarques.com/receipts/production/21/2016/12/06/20161206-1531-2435-55041-1/20161206-1531-2435-55041-1_prerotated.jpg",
+  "retailer_name": "Inconnu",
+  "lines": [
+    {
+      "total_price": None,
+      "ocr_processed_description": "(",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "1L",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "&gt; D",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Date: 20/07/2016 16:34 Nb Article: 2",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Lalsse( 2o Ticket: 6202107",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Caissier : 700659",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Alimentation",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "89153409 MACARON PFT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Articles PRouge",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "2.10 \u20ac x 2 = 4.20 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Total 4.20 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "EsPeCes 20.00 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "RendU 15.80 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Taux TVA Montant H.T1 T.V.9.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "5.50% 3.98 \u20ac 0.22 \u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "M E R C I",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "A BIENTOT EN NVOAGASAN ET",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "SUR GALERIESLAFAYETTECORVA",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Echange ou remboursemnent sous 30 jours",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "sur presentation du ficKet de caisse",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "hors allmhenfaire",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Exchange Oor refund wifn in 30 days",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "wlth a valid receipt except fo08.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Veulllez Yaire la detaxe",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "1e Jour de votre achat",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Piease do your lax Refund",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "on fhe day ot your Purchase.",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Magasins Galeries Lafayette",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Le bourmeT",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "35 boulevard Haussmhenn",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "75009 PARIS",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Tel 01 42 82 34 56",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Du lundi au samedi 08h30-21h30",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "Llvraison 9ratulTe a partir de 50 E",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "266202107701",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "RCS PARIS: 967 503 931 Cap 670.400\u20ac",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    },
+    {
+      "total_price": None,
+      "ocr_processed_description": "TVA Intracon FR74957503931",
+      "unit_price": None,
+      "ocr_raw_description": None,
+      "category_image_url": "http://cdn1.skerou.com/images/products/skerou_created/unknown_product.png",
+      "category_name": "NON RECONNU",
+      "quantity": None
+    }
+  ],
+  "retailer_image_url": "http://cdn1.skerou.com/images/retailers/inconnu.png",
+  "nb_recognized_products": 0,
+  "nb_products": 0,
+  "date": "20-07-2016 16:34",
+  "total": 4.2,
+  "user_uuid": "marine.lebez@gmail.com"
+}

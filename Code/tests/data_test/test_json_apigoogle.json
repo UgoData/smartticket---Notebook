@@ -1,0 +1,51 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "formatted_address": "5 Avenue Trudaine, 75009 Paris, France",
+      "geometry": {
+        "location": {
+          "lat": 48.881691,
+          "lng": 2.3459911
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 48.88182600000001,
+            "lng": 2.34602975
+          },
+          "southwest": {
+            "lat": 48.88164599999999,
+            "lng": 2.34587515
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "02e6616f7b5a2db4a1234598e1a9ad4e335e8961",
+      "name": "B-BOYZ",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2358,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117734763804592050429/photos\">Le Boulet</a>"
+          ],
+          "photo_reference": "CoQBdwAAAEWyT2kEUUKxVmrvwIrP2EmSiI-_BlhRWCrDw4B8hFi2pc9UxAU7n1IuWgnUoKamd9cUsRlWBTWOGUVzdwxP0J6O3VzC-L-rp5JQoOYLOW1lJn6i_rfnNgXvtt_ewd33p8qZGXcAiT26VWo-uWEwmVQDLc84qvkRNFD3Qg3o6YfYEhB15Q60Uf7M6xy_Qa2hh-9aGhRz0osjmOZehJ02d9VAUTNRQPm4dQ",
+          "width": 4191
+        }
+      ],
+      "place_id": "ChIJ66lfIEJu5kcRHfWex4wGXYc",
+      "rating": 3.9,
+      "reference": "CmRSAAAADCcXFZmYcRJkHyfXFrks3CY3JYuNTALesFNfXMNCbqs2bGEuSArqeON0RbRKFYcNTSsD91GM0ynUvpsvKp0dbh-MBDVMr5BlAqJTuJkmqrEPCDYEceSwxg_edOaFsC2XEhDXGXDi9CrAFvNDXuBk1YZLGhTTsJyQIsnQ2sOAP07KknRP6cqpBA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
